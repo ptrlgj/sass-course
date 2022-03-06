@@ -101,43 +101,43 @@ img {
   }
 }
 .text-primary {
-  color: #326dee;
+  color: indigo;
 }
 
 .bg-primary {
-  background: #326dee;
+  background: indigo;
 }
 
 .bg-primary-light-2 {
-  background-color: #5b8af1;
+  background-color: #6f339b;
 }
 
 .bg-primary-light-4 {
-  background-color: #84a7f5;
+  background-color: #9366b4;
 }
 
 .bg-primary-light-6 {
-  background-color: #adc5f8;
+  background-color: #b799cd;
 }
 
 .bg-primary-light-8 {
-  background-color: #d6e2fc;
+  background-color: #dbcce6;
 }
 
 .bg-primary-dark-2 {
-  background-color: #2857be;
+  background-color: #3c0068;
 }
 
 .bg-primary-dark-4 {
-  background-color: #1e418f;
+  background-color: #2d004e;
 }
 
 .bg-primary-dark-6 {
-  background-color: #142c5f;
+  background-color: #1e0034;
 }
 
 .bg-primary-dark-8 {
-  background-color: #0a1630;
+  background-color: #0f001a;
 }
 
 .text-secondary {
@@ -277,11 +277,11 @@ img {
   display: inline-block;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  background-color: #326dee;
+  background-color: indigo;
   border: 0;
 }
 .btn-primary:hover {
-  background: #4a7ef0;
+  background: #5a009c;
 }
 
 .btn-complement-primary {
@@ -290,12 +290,12 @@ img {
   display: inline-block;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  background-color: #326dee;
-  color: #fae7bf;
+  background-color: indigo;
+  color: #7cff1c;
 }
 .btn-complement-primary:hover {
-  color: #326dee;
-  background-color: #fae7bf;
+  color: indigo;
+  background-color: #7cff1c;
 }
 
 .btn-secondary {
@@ -406,7 +406,7 @@ img {
   font-size: 1.5rem;
 }
 .navbar-primary {
-  background-color: #326dee;
+  background-color: indigo;
 }
 
 .p-0 {
